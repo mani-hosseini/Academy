@@ -5,6 +5,7 @@ import {MainUser} from "./itemuser/main-user.jsx";
 import Navigate from "./Navigate/Navigate.jsx";
 import {Headinguser} from "./heading/heading-user/heading-user.jsx";
 import {Headinggallery} from "./heading/heading-user/headinggallery.jsx";
+import {Btns} from "./btns/btns.jsx";
 
 export function Div() {
     return (
@@ -14,6 +15,7 @@ export function Div() {
             <Headinguser/>
             <MainUser/>
             <Headinggallery/>
+            <Btns/>
             <Navigate/>
         </main>
     );
