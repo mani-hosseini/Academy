@@ -1,9 +1,9 @@
-import {Userdata} from "./itemuser-components/userdata.jsx";
+import {ItemLearn} from "./itemuser-components/item-learn.jsx";
 
 export function MainUser() {
-    return(
+    return (
         <div>
-            <Userdata/>
+            <ItemLearn/>
         </div>
     )
 }
