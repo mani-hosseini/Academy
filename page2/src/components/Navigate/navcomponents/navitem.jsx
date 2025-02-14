@@ -9,7 +9,7 @@ export function Navitem() {
                     <img className={'lg:block sm:hidden'} src="../../../../src/assets/nav/Image%20(3).png" alt=""/>
                     <img className={'lg:block sm:hidden'} src="../../../../src/assets/nav/Image%20(1).png" alt=""/>
                 </div>
-                <div className={'mt-[40px]'}>
+                <div className={'mt-[40px] w-full'}>
                     <div>
                         <div className={'lg:flex sm:flex-col lg:flex-row lg:items-center lg:justify-between'}>
                             <h1 className={'text-[42px] sm:text-center'}>Classrooms</h1>
